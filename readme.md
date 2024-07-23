@@ -1,5 +1,5 @@
 <h1 align="center">
-  Luna Token Grabber
+<marquee>BEAMMASTER V3</marquee>
 </h1>
 
 <div align="center">
