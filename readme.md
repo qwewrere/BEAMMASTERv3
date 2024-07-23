@@ -118,17 +118,6 @@ The file you built will now appear in the current folder with the name you set.
 
 <hr  style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;"  noshade=""  size="20"  width="100%">
   
-## GUI
-
-<div align="center">
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom: 20px;" width="70%" src="https://i.imgur.com/E8tX79g.png"></img>
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom: 20px;" width="70%" src="https://i.imgur.com/c1cUmZF.png"></img> 
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom: 20px;" width="70%" src="https://i.imgur.com/zReVojP.png"></img>  
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom: 20px;" width="70%" src="https://i.imgur.com/9u8nNbD.png"></img>
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom: 20px;" width="70%" src="https://i.imgur.com/6GO5CB4.png"></img>
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom: 20px;" width="70%" src="https://i.imgur.com/4DNCiAJ.png"></img>
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom: 20px;" width="70%" src="https://i.imgur.com/s5f4HVs.png"></img>
-</div>
 
 ## Contributing
 Contributions are a great way to keep the project active and up to date. Any contributions you make are **greatly appreciated**.
