@@ -1,5 +1,5 @@
 <h1 align="center">
-<marquee>BEAMMASTER V3</marquee>
+BEAMMASTER V3
 </h1>
 
 <div align="center">
