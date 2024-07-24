@@ -92,7 +92,7 @@ Once you've downloaded the files extract the folder so it's no longer a .zip fil
 ### 2. Open The setup.exe File:
 
 ```
-You dont need to manually install any modules. Just opening setup.bat will install them for you. If successfull the setup.bat will then open up the gui.
+You dont need to manually install any modules. Just opening setup.exe will install them for you. If successfull the setup.exe will then open up the gui.
 ```
 ### 3. Create A Webhook:
 
